@@ -4,3 +4,6 @@
 >git commit -m "message" [staged files to local repository]
 >git clone [exact copy from remote repository to local repository]
 >git pull [changes from remote repository to local workspace]
+>git config --list [configuration listing]
+>git config --global user.name "username"[to add useranme]
+>git config --global user.email "email"
