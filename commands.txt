@@ -1,0 +1,3 @@
+>git init [for initializing git repository]
+>git status [ for listing untracked files]
+>git add -A [adding all untracked filesto staged area]
