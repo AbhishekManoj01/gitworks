@@ -7,3 +7,5 @@
 >git config --list [configuration listing]
 >git config --global user.name "username"[to add useranme]
 >git config --global user.email "email"
+>git remote add remote_name remote_path[add a new repository]
+>git push remote_name branch_name [push frm local repository to remote repository]
